@@ -11,9 +11,9 @@
           "architecture": "megaavr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/Circuitneato/Tineato-Series-Boards/raw/refs/heads/main/CircuitneatoBoards.zip",
+          "url": "https://circuitneato.github.io/CircuitneatoBoards.zip",
           "archiveFileName": "CircuitneatoBoards.zip",
-          "checksum": "SHA-256:28e6f29ee2a0a74cc88a93c26388a4a7e4a9321fead9be18e3d47dcf80009e02f581ca85e07f538413f869a50faac1ade73be4a5228f212cfc6d80ee7ec070f2",
+          "checksum": "SHA-256:bad07bbef2b5b5cca6d741f64c97509090bab1ea2827e19a9abf14012f97c287",
           "size": "1455374",
           "boards": [
             {"name": "Tineato 3226 5V/20MHz"},
