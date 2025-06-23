@@ -13,8 +13,8 @@
           "category": "Contributed",
           "url": "https://circuitneato.github.io/CircuitneatoBoards-1.0.0.zip",
           "archiveFileName": "CircuitneatoBoards-1.0.0.zip",
-          "checksum": "SHA-256:2a70e9cec9c5b58895f42e470eb6b875732da1df3547f046b3d4cb53a7da9d79",
-          "size": "1441851",
+          "checksum": "SHA-256:cf674742b81f25dbc38d51125fb88a3d8aa9e37ae66bd0ea9c9ccb3894eb5b22",
+          "size": "1441829",
           "boards": [
             {"name": "Tineato 3226 5V/20MHz"},
             {"name": "Tineato 3226 3.3V/10MHz"}
