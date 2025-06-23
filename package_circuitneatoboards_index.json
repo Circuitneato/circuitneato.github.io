@@ -11,10 +11,10 @@
           "architecture": "megaavr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://circuitneato.github.io/CircuitneatoBoards-1.0.0.zip",
-          "archiveFileName": "CircuitneatoBoards-1.0.0.zip",
-          "checksum": "SHA-256:6d338a4d3ab1bc55635743e1a2bcca5b24547bb75d09813130ae6c1b0db0ddb0",
-          "size": "1296103",
+          "url": "https://circuitneato.github.io/CircuitneatoAVRBoards-1.0.0.zip",
+          "archiveFileName": "CircuitneatoAVRBoards-1.0.0.zip",
+          "checksum": "SHA-256:17b4d8b34581abd149b5da02e75cdb409aaf66bccb79cee86448533a52b6ffb8",
+          "size": "1293096",
           "boards": [
             {"name": "Tineato 3226"}
           ],
