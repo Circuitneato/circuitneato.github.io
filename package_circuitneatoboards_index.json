@@ -40,46 +40,6 @@
               "name": "python3"
             }
           ]
-        },
-        {
-          "name": "Circuitneato ARM Boards",
-          "architecture": "stm32",
-          "version": "1.0.0",
-          "category": "Contributed",
-          "url": "https://circuitneato.github.io/CircuitneatoARMBoards-1.0.0.zip",
-          "archiveFileName": "CircuitneatoARMBoards-1.0.0.zip",
-          "checksum": "SHA-256:76b45fbc2cbc311882f009d7dcb2bc37d907f6fb2540f3a86488ca903b428c80",
-          "size": "4686612",
-          "boards": [
-            {"name": "STM32 Keyboard Controller"}
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "CircuitneatoBoards",
-              "name": "xpack-arm-none-eabi-gcc",
-              "version": "14.2.1-1.1"
-            },
-            {
-              "packager": "CircuitneatoBoards",
-              "name": "xpack-openocd",
-              "version": "0.12.0-6"
-            },
-            {
-              "packager": "CircuitneatoBoards",
-              "name": "STM32Tools",
-              "version": "2.3.0"
-            },
-            {
-              "packager": "CircuitneatoBoards",
-              "name": "CMSIS",
-              "version": "5.9.0"
-            },
-            {
-              "packager": "CircuitneatoBoards",
-              "name": "STM32_SVD",
-              "version": "1.18.0"
-            }
-          ]
         }
       ],
       "tools": [
