@@ -44,7 +44,7 @@
         {
           "name": "Circuitneato ARM Boards",
           "architecture": "stm32",
-          "version": "2.10.1",
+          "version": "1.0.0",
           "category": "Contributed",
           "url": "https://circuitneato.github.io/CircuitneatoARMBoards-1.0.0.zip",
           "archiveFileName": "CircuitneatoARMBoards-1.0.0.zip",
