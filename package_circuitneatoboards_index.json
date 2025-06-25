@@ -44,12 +44,12 @@
         {
           "name": "Circuitneato ARM Boards",
           "architecture": "stm32",
-          "version": "1.0.1",
+          "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://circuitneato.github.io/CircuitneatoARMBoards-1.0.1.zip",
-          "archiveFileName": "CircuitneatoARMBoards-1.0.1.zip",
-          "checksum": "SHA-256:ec6ee15cc4a51431cea873e3ec3777efd2028fae81476b9e288ccbce3df8b372",
-          "size": "4686612",
+          "url": "https://circuitneato.github.io/CircuitneatoARMBoards-1.0.0.zip",
+          "archiveFileName": "CircuitneatoARMBoards-1.0.0.zip",
+          "checksum": "SHA-256:ec363709854a3ec2d6f40eeb1bcebebfaf36615fa95ddb02a63d319d8aad65ca",
+          "size": "4686669",
           "boards": [
             {"name": "STM32 Keyboard Controller"}
           ],
