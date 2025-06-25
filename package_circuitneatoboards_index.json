@@ -48,8 +48,8 @@
           "category": "Contributed",
           "url": "https://circuitneato.github.io/CircuitneatoARMBoards-1.0.0.zip",
           "archiveFileName": "CircuitneatoARMBoards-1.0.0.zip",
-          "checksum": "SHA-256:d11203e22d8267ebf956a4c85895fa1a7caca5d7c185bfea7798f09a60a3b82c",
-          "size": "4686653",
+          "checksum": "SHA-256:ca7ac470afb45ff4a5a83a44f6f385ce79116c34c62b405610912844682b078c",
+          "size": "4687423",
           "boards": [
             {"name": "STM32 Keyboard Controller"}
           ],
