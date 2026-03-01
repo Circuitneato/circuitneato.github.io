@@ -91,8 +91,7 @@
           "checksum": "SHA-256:d5c482878cda08754cd219c5ad427667dd2d667616cc0f938a059e0ea0f45ff4",
           "size": "4695550",
           "boards": [
-            {"name": "STM32 Keyboard Controller"},
-            {"name": "STM32 Macropad Controller"},
+            {"name": "STM32 Keyboard Controller or Macropad Controller"},
             {"name": "Naneato M0"}
           ],
           "toolsDependencies": [
