@@ -80,6 +80,48 @@
               "version": "1.18.0"
             }
           ]
+        },
+        {
+          "name": "Circuitneato ARM Boards",
+          "architecture": "stm32",
+          "version": "1.1.0",
+          "category": "Contributed",
+          "url": "https://circuitneato.github.io/CircuitneatoARMBoards-1.1.0.zip",
+          "archiveFileName": "CircuitneatoARMBoards-1.1.0.zip",
+          "checksum": "SHA-256:d5c482878cda08754cd219c5ad427667dd2d667616cc0f938a059e0ea0f45ff4",
+          "size": "4695550",
+          "boards": [
+            {"name": "STM32 Keyboard Controller"},
+            {"name": "STM32 Macropad Controller"},
+            {"name": "Naneato M0"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "STMicroelectronics",
+              "name": "xpack-arm-none-eabi-gcc",
+              "version": "14.2.1-1.1"
+            },
+            {
+              "packager": "STMicroelectronics",
+              "name": "xpack-openocd",
+              "version": "0.12.0-6"
+            },
+            {
+              "packager": "STMicroelectronics",
+              "name": "STM32Tools",
+              "version": "2.3.0"
+            },
+            {
+              "packager": "STMicroelectronics",
+              "name": "CMSIS",
+              "version": "5.9.0"
+            },
+            {
+              "packager": "STMicroelectronics",
+              "name": "STM32_SVD",
+              "version": "1.18.0"
+            }
+          ]
         }
       ],
       "tools": [
