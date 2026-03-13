@@ -42,6 +42,41 @@
           ]
         },
         {
+          "name": "Circuitneato AVR Boards",
+          "architecture": "megaavr",
+          "version": "1.0.1",
+          "category": "Contributed",
+          "url": "https://circuitneato.github.io/CircuitneatoAVRBoards-1.0.1.zip",
+          "archiveFileName": "CircuitneatoAVRBoards-1.0.1.zip",
+          "checksum": "SHA-256:eb694235a7aef03271bd9a01611b5fefb4ec17c74cb392d38da92a08dfef3a45",
+          "size": "1293089",
+          "boards": [
+            {"name": "Tineato 3226"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "DxCore",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-azduino7b1"
+            },
+            {
+              "packager": "DxCore",
+              "name": "avrdude",
+              "version": "6.3.0-arduino17or18"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            },
+            {
+              "packager": "megaTinyCore",
+              "version": "3.7.2-post1",
+              "name": "python3"
+            }
+          ]
+        },
+        {
           "name": "Circuitneato ARM Boards",
           "architecture": "stm32",
           "version": "1.0.0",
